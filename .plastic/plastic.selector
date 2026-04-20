@@ -1,0 +1,4 @@
+repository "Pseudo Haptic_Balance_Avatar/Pseudo Haptic_Balance_Avatar@15668456458014@cloud"
+  path "/"
+    br "/main"
+    co "/main"
