@@ -6,10 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Pseudo Haptic.unity
+    guid: 06a339ff5513d7f49a91ab90cbe194d4
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 83f85bc50184947478a7d10ccc481f49, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 4d25799d05399de41b54c1d5d12ed42b, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 79bf9251b19b43a429cefd7e5eab6186, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: fa6278ffc74946c4ab031983a3280c87, type: 2}
   m_UseUCBPForAssetBundles: 0
