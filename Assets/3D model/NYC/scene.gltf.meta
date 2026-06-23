@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: bda38fa9f1bdd594283725699adaf890
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 0
+    originalUri: Assets\3D model\NYC\scene.bin
+    assetPath: Assets\3D model\NYC\scene.bin
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenbasic_dark_green_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenbasic_dark_green_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenbasic_dark_green_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGenbasic_dark_green_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenbasic_dark_green_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenbasic_dark_green_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGen_lanes_secondary_color_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGen_lanes_secondary_color_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGen_Streets_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGen_Streets_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGen_Streets_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGen_Streets_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenside_walks_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenside_walks_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenside_walks_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGenside_walks_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenside_walks_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenside_walks_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGen_Curb_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGen_Curb_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGen_Curb_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGen_Curb_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGen_Curb_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGen_Curb_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\Street_Assets.001_baseColor.png
+    assetPath: Assets\3D model\NYC\textures\Street_Assets.001_baseColor.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenTCom_DecalsStain0094_2_masked_S_baseColor.png
+    assetPath: Assets\3D model\NYC\textures\CityGenTCom_DecalsStain0094_2_masked_S_baseColor.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenTCom_DecalsStain0057_1_masked_S_baseColor.png
+    assetPath: Assets\3D model\NYC\textures\CityGenTCom_DecalsStain0057_1_masked_S_baseColor.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenTCom_DecalsStain0047_1_masked_S_baseColor.png
+    assetPath: Assets\3D model\NYC\textures\CityGenTCom_DecalsStain0047_1_masked_S_baseColor.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\Street_Assets_baseColor.png
+    assetPath: Assets\3D model\NYC\textures\Street_Assets_baseColor.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenWetFloorSign_01.001_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenWetFloorSign_01.001_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenWetFloorSign_01.001_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGenWetFloorSign_01.001_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenWetFloorSign_01.001_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenWetFloorSign_01.001_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenmetal_trash_can_rust_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenmetal_trash_can_rust_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenmetal_trash_can_rust_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGenmetal_trash_can_rust_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenmetal_trash_can_rust_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenmetal_trash_can_rust_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\FoliageTrees.001_baseColor.png
+    assetPath: Assets\3D model\NYC\textures\FoliageTrees.001_baseColor.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenBark.002_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenBark.002_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenBark.002_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGenBark.002_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenBark.002_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenBark.002_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGen_Grass_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGen_Grass_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGen_Grass_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGen_Grass_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGen_Grass_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGen_Grass_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenroof.001_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenroof.001_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenroof.001_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenroof.001_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenroof.002_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenroof.002_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenroof.002_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenroof.002_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenroof.003_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenroof.003_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenroof.003_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenroof.003_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\Material_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\Material_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGen_LR_Facades_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGen_LR_Facades_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGen_LR_Facades_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGen_LR_Facades_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGensimple_concrete_1_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGensimple_concrete_1_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGensimple_concrete_1_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGensimple_concrete_1_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenyellow_stone_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGenyellow_stone_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenyellow_stone_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenyellow_stone_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenwhite_marble_tiles_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenwhite_marble_tiles_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenwhite_marble_tiles_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGenwhite_marble_tiles_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenwhite_marble_tiles_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenwhite_marble_tiles_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\material_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\material_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\material_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\material_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenGlass.001_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenGlass.001_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\material_34_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\material_34_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGentextured_metal_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGentextured_metal_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGentextured_metal_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGentextured_metal_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGentextured_metal_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGentextured_metal_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenAC_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenAC_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenVent_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenVent_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\Material.001_baseColor.png
+    assetPath: Assets\3D model\NYC\textures\Material.001_baseColor.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\Material.001_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\Material.001_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\Material.002_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\Material.002_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenconcrete.001_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenconcrete.001_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenconcrete.001_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\CityGenconcrete.001_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\CityGenconcrete.001_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\CityGenconcrete.001_normal.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\solar_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\solar_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\rooftop_tank_baseColor.jpeg
+    assetPath: Assets\3D model\NYC\textures\rooftop_tank_baseColor.jpeg
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\Material.003_baseColor.png
+    assetPath: Assets\3D model\NYC\textures\Material.003_baseColor.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\Building_Facade.001_baseColor.png
+    assetPath: Assets\3D model\NYC\textures\Building_Facade.001_baseColor.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\Building_Facade.001_metallicRoughness.png
+    assetPath: Assets\3D model\NYC\textures\Building_Facade.001_metallicRoughness.png
+  - type: 1
+    originalUri: Assets\3D model\NYC\textures\Building_Facade.001_normal.jpeg
+    assetPath: Assets\3D model\NYC\textures\Building_Facade.001_normal.jpeg
+  reportItems:
+  - type: 2
+    code: 51
+    messages: []
+  - type: 0
+    code: 52
+    messages:
+    - 2

@@ -5,6 +5,7 @@ using UnityEngine.UI;
 public class CDRatioBoard : MonoBehaviour
 {
     [SerializeField] private CD_Control cdControl;
+    [SerializeField] private BalanceDataRecorder recorder;
     [SerializeField] private TMP_Text leftValueText;
     [SerializeField] private TMP_Text rightValueText;
     [SerializeField] private Color selectedColor = new Color(0.2f, 0.8f, 1f);
@@ -15,6 +16,11 @@ public class CDRatioBoard : MonoBehaviour
 
     void Start()
     {
+        if (recorder == null)
+        {
+            recorder = FindAnyObjectByType<BalanceDataRecorder>();
+        }
+
         leftButtons = transform.Find("LeftColumn").GetComponentsInChildren<Button>();
         rightButtons = transform.Find("RightColumn").GetComponentsInChildren<Button>();
         Refresh();
@@ -24,17 +30,20 @@ public class CDRatioBoard : MonoBehaviour
     {
         cdControl.leftArmCDRatio = ratio;
         Refresh();
+        recorder?.MarkRatioChanged(cdControl.leftArmCDRatio, cdControl.rightArmCDRatio);
     }
 
     public void SetRightRatio(float ratio)
     {
         cdControl.rightArmCDRatio = ratio;
         Refresh();
+        recorder?.MarkRatioChanged(cdControl.leftArmCDRatio, cdControl.rightArmCDRatio);
     }
 
     public void Recalibrate()
     {
         cdControl.RequestCalibration();
+        recorder?.ToggleRecording();
     }
 
     void Refresh()
